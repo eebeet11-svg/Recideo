@@ -10,7 +10,7 @@ export default function Home() {
         Resideo
       </h1>
       <p style={{ fontSize: '24px', color: '#C9A96E', marginBottom: '40px' }}>
-        A Place You Can Call Home
+        A Place You Can Call Home - welcome
       </p>
       
       <div style={{ display: 'grid', gap: '20px' }}>
